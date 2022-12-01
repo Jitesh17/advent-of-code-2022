@@ -1,1 +1,4 @@
-# advent-of-code-2022
+# [Advent of Code 2022](https://adventofcode.com/2022)
+
+### Puzzles
+- [Day 1](https://adventofcode.com/2022/day/1)
